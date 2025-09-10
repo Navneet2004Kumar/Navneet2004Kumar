@@ -16,40 +16,47 @@
 🔹 Skilled in C++, Python, HTML, CSS, JS, Bootstrap, Git & GitHub 
 🔹 Love solving problems & building projects 🚀  
 
+## 🚀 Tech Stack  
 
- ### 🛠 Tech Stack
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-
-
-
-  
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
-
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=600&lines=💻+Languages;🎨+Frontend+Development;⚙️+Backend+%26+Frameworks;🗄️+Databases;🛠️+Tools+%26+Platforms" alt="Typing SVG" />
 </p>
+
+---
+
+### 💻 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp" />
+</p>
+
+### 🎨 Frontend Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🛠️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🌟 Animated Tech Stack Card  
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Full+Stack+Developer&lineCount=4&theme=tokyonight&line1=html5,HTML,FF5733;css3,CSS,2965f1;javascript,JavaScript,f7df1e;php,PHP,777BB4;&line2=react,React,61DAFB;bootstrap,Bootstrap,7952B3;tailwindcss,TailwindCSS,38BDF8;&line3=node.js,Node.js,339933;express,Express,000000;&line4=python,Python,3776AB;cplusplus,C++,00599C;mysql,MySQL,4479A1;postgresql,PostgreSQL,336791;git,GIT,F1502F;github,GitHub,000000;" alt="Tech Stack Card" />
+</p>
+
 
 
 
