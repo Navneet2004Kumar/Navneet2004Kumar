@@ -50,16 +50,56 @@
 </p>
 
 
+## 🚀 Projects  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=🌦+Weather+App;📝+To-Do+List;🏨+Hotel+Management+System;💼+Portfolio+Website;🎬+Hotstar+Clone;🍿+Netflix+Recommendation+System;🐞+Bug+Tracker" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 My Work  
+
+<details open>
+<summary>🌦 <b>Weather App</b></summary>
+<p> A live weather application using <b>OpenWeather API</b> with real-time updates 🌍 </p>
+</details>
+
+<details>
+<summary>📝 <b>To-Do List</b></summary>
+<p> A task manager with <b>CRUD functionality</b> and responsive design ✅ </p>
+</details>
+
+<details>
+<summary>🏨 <b>Hotel Management System</b></summary>
+<p> A <b>DBMS-based project</b> to handle hotel bookings, customers, and staff 🏨 </p>
+</details>
+
+<details>
+<summary>💼 <b>Portfolio Website</b></summary>
+<p> Personal portfolio showcasing <b>skills, projects, and contact info</b> 🌐 </p>
+</details>
+
+<details>
+<summary>🎬 <b>Hotstar Clone</b></summary>
+<p> A <b>front-end clone</b> of Disney+ Hotstar with categories, autoplay, and responsive design 🎥 </p>
+</details>
+
+<details>
+<summary>🍿 <b>Netflix Recommendation System</b></summary>
+<p> A <b>machine learning project</b> that suggests movies based on user preferences 🤖 </p>
+</details>
+
+<details>
+<summary>🐞 <b>Bug Tracker</b></summary>
+<p> A <b>web-based system</b> for reporting, tracking, and managing software bugs with status updates 🐛 </p>
+</details>
 
 
- 🚀 Projects  
-- 🌦 Weather App – A live weather application using OpenWeather API with real-time updates.  
-- 📝 To-Do List – A task manager with CRUD functionality and responsive design.  
-- 🏨 Hotel Management System – A DBMS-based project to handle hotel bookings, customers, and staff.  
-- 💼 Portfolio Website – Personal portfolio showcasing skills, projects, and contact info.  
-- 🎬 Hotstar Clone – A front-end clone of Disney+ Hotstar with categories, autoplay, and responsive design.  
-- 🍿 Netflix Movie Recommendation System – A machine learning project that suggests movies based on user preferences and similarities.  
-- 🐞 Bug Tracker – A web-based system for reporting, tracking, and managing software bugs with status updates.  
+
+
+
+ 
 
 
 
