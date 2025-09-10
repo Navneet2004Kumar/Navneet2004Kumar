@@ -1,6 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Navneet+Kumar+Upadhyay;🎓+B.Tech+Student+(2023–2027);💻+Frontend+Developer;🚀+Problem+Solver+%7C+Tech+Explorer;🌟+ Passionate+ about+clean + and+ user-friendly+ UI/UX" alt="Typing SVG" />
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi, I'm <span style="color:#00C0FF">Navneet Kumar Upadhyay</span>  
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎓+B.Tech+Student+(2023–2027)+at+SRM+IST;💻+Frontend+Developer;🚀+Problem+Solver+%7C+Tech+Explorer;🌟+UI%2FUX+Design+Enthusiast;🔥+Always+learning+new+tech" alt="Typing Animation" />
+</p>
 
 
 
