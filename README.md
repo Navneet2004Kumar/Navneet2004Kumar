@@ -1,17 +1,15 @@
-👋 Hi, I'm Navneet Kumar Upadhyay  
-
-🎓 B.Tech Student (2023–2027) at SRM Institute of Science and Technology  
-💻 Frontend Developer | Problem Solver | Tech Explorer  
-🌟 Passionate about building clean, responsive, and user-friendly web applications.  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Navneet+Kumar+Upadhyay;💻+Frontend+Developer;🎓+B.Tech+Student+(2023–2027);🚀+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 
 
- 🌟 About Me  
- 🔹 Exploring Frontend Development & DSA  
- 🔹 Experienced with Python & Web Development Internships (CodSoft, Vault of Codes)  
- 🔹 Strong foundation in DBMS, OS, CN, SQL, MySQL, PostgreSQL 
- 🔹 Skilled in C++, Python, HTML, CSS, JS, Bootstrap, Git & GitHub 
- 🔹 Love solving problems & building projects 🚀  
+## 🌟 About Me  
+🔹 Exploring Frontend Development & Data Structures and Algorithms (DSA) 
+🔹 Experienced with Python & Web Development Internships (CodSoft, Vault of Codes)  
+🔹 Strong foundation in DBMS, OS, CN, SQL, MySQL, PostgreSQL  
+🔹 Skilled in C++, Python, HTML, CSS, JS, Bootstrap, Git & GitHub 
+🔹 Love solving problems & building projects 🚀  
 
 
  ### 🛠 Tech Stack
