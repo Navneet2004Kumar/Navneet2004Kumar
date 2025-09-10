@@ -11,7 +11,7 @@
 ## 🌟 About Me  
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00C0FF&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git+%26+GitHub;🔹+Love+solving+problems+%26+building+projects+🚀" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00C0FF&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git+%26+GitHub;🔹+Love+solving+problems+%26+building+projects+🚀" alt="About Me Animation" />
 </p>
 
 
