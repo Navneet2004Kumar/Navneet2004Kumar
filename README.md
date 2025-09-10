@@ -49,21 +49,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
----
-
-## 🌟 Animated Tech Stack Card  
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Full+Stack+Developer&lineCount=4&theme=tokyonight&line1=html5,HTML,FF5733;css3,CSS,2965f1;javascript,JavaScript,f7df1e;php,PHP,777BB4;&line2=react,React,61DAFB;bootstrap,Bootstrap,7952B3;tailwindcss,TailwindCSS,38BDF8;&line3=node.js,Node.js,339933;express,Express,000000;&line4=python,Python,3776AB;cplusplus,C++,00599C;mysql,MySQL,4479A1;postgresql,PostgreSQL,336791;git,GIT,F1502F;github,GitHub,000000;" alt="Tech Stack Card" />
-</p>
 
 
-
-
-
- 
- 
- 
 
  🚀 Projects  
 - 🌦 Weather App – A live weather application using OpenWeather API with real-time updates.  
