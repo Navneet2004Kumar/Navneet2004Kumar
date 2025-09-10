@@ -10,11 +10,10 @@
 
 
 ## 🌟 About Me  
-🔹 Exploring Frontend Development & Data Structures and Algorithms (DSA) 
-🔹 Experienced with Python & Web Development Internships (CodSoft, Vault of Codes)  
-🔹 Strong foundation in DBMS, OS, CN, SQL, MySQL, PostgreSQL  
-🔹 Skilled in C++, Python, HTML, CSS, JS, Bootstrap, Git & GitHub 
-🔹 Love solving problems & building projects 🚀  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git+%26+GitHub;🔹+Love+solving+problems+%26+building+projects+🚀" alt="About Me Animation" />
+</p>
 
 ## 🚀 Tech Stack  
 
