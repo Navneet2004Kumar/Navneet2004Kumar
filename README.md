@@ -1,30 +1,18 @@
-<!-- Full-Screen Hero Section -->
-<div align="center" style="background: linear-gradient(135deg, #1e1e2f, #0f0f1a); padding: 60px 20px; border-radius: 25px; box-shadow: 0 0 40px rgba(0,0,0,0.5);">
 
-<h1 style="font-size: 5rem; background: linear-gradient(90deg, #00C0FF, #FF6B6B); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="vertical-align:middle;"> 
-  Hi, I'm Navneet Kumar Upadhyay
+<h1 align="center" style="font-size: 4rem;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
+  Hi, I'm <span style="color:#00C0FF">Navneet Kumar Upadhyay</span>
 </h1>
 
-<p style="font-size: 2rem; margin: 20px 0; color: #fff; text-shadow: 1px 1px 5px rgba(0,0,0,0.5);">
-  🎓 B.Tech Student (2023–2027) | 💻 Frontend Developer | 🚀 Problem Solver 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🎓+B.Tech+Student+(2023–2027)+at+SRM+IST;💻+Frontend+Developer;🚀+Problem+Solver+%7C+Tech+Explorer;🌟+UI%2FUX+Design+Enthusiast;🔥+Always+learning+new+tech" alt="Typing Animation" />
 </p>
 
-<!-- Typing Animation #1 -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development" alt="Typing Animation" />
+## 🌟 About Me  
+
+<p align="center" style="margin-top: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=00C0FF&center=true&vCenter=true&multiline=true&width=1000&height=280&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git+%26+GitHub;🔹+Love+solving+problems+%26+building+projects+🚀" alt="About Me Animation" />
 </p>
-
-<!-- Typing Animation #2 -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS;🔹+Love+solving+problems+%26+building+projects+🚀" alt="Typing Animation" />
-</p>
-
-</div>
-
-
-
-
 
 ## 🚀 Tech Stack  
 
