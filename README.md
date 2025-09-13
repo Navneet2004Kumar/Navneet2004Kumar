@@ -1,25 +1,27 @@
 <!-- HERO SECTION -->
-<div align="center" style="background: linear-gradient(135deg, #1e1e2f, #0f0f1a); padding: 60px 20px; border-radius: 25px; box-shadow: 0 0 50px rgba(0,0,0,0.5);">
+<div align="center" style="background: linear-gradient(135deg, #1e1e2f, #0f0f1a); padding: 60px 20px; border-radius: 25px; box-shadow: 0 0 50px rgba(0,0,0,0.5); max-width: 100%; overflow-x: hidden;">
 
-<h1 style="font-size: 5rem; background: linear-gradient(90deg, #00C0FF, #FF6B6B); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 2px 2px 15px rgba(0,0,0,0.4);">
+<h1 style="font-size: 5rem; background: linear-gradient(90deg, #00C0FF, #FF6B6B); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 2px 2px 15px rgba(0,0,0,0.4); line-height: 1.2; word-wrap: break-word;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="vertical-align:middle;">
   Hi, I'm Navneet Kumar Upadhyay
 </h1>
 
-<p style="font-size: 2.2rem; margin: 20px 0; color: #fff; text-shadow: 1px 1px 5px rgba(0,0,0,0.5);">
+<p style="font-size: 2.2rem; margin: 20px 0; color: #fff; text-shadow: 1px 1px 5px rgba(0,0,0,0.5); line-height: 1.4; max-width: 90%;">
   🎓 B.Tech Student (2023–2027) | 💻 Frontend Developer | 🚀 Problem Solver | 🌟 UI/UX Enthusiast
 </p>
 
 <!-- ABOUT ME TYPING ANIMATION -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git+%26+GitHub;🔹+Love+solving+problems+%26+building+projects+🚀" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1200&lines=🔹+Exploring+Frontend+Development+%26+DSA;🔹+Experienced+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git+%26+GitHub;🔹+Love+solving+problems+%26+building+projects+🚀" alt="About Me Animation" style="max-width: 100%; height: auto;" />
 </p>
 
 <!-- TECH STACK SECTION -->
-<h2 style="font-size: 3rem; margin-top: 40px; color: #00C0FF; text-shadow: 1px 1px 10px rgba(0,0,0,0.3);">🚀 Tech Stack</h2>
+<h2 style="font-size: 3rem; margin-top: 40px; color: #00C0FF; text-shadow: 1px 1px 10px rgba(0,0,0,0.3); line-height: 1.3;">
+  🚀 Tech Stack
+</h2>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=800&lines=💻+Languages;🎨+Frontend+Development;⚙️+Backend+%26+Frameworks;🗄️+Databases;🛠️+Tools+%26+Platforms" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=1200&lines=💻+Languages;🎨+Frontend+Development;⚙️+Backend+%26+Frameworks;🗄️+Databases;🛠️+Tools+%26+Platforms" alt="Tech Stack Animation" style="max-width: 100%; height: auto;" />
 </p>
 
 </div>
