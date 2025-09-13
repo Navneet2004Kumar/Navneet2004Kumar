@@ -7,7 +7,7 @@
 </h1>
 
 <p style="font-size: 2rem; margin: 20px 0; color: #fff; text-shadow: 1px 1px 5px rgba(0,0,0,0.5);">
-  🎓 B.Tech Student (2023–2027) | 💻 Frontend Developer | 🚀 Problem Solver | 🌟 UI/UX Enthusiast
+  🎓 B.Tech Student (2023–2027) | 💻 Frontend Developer | 🚀 Problem Solver 
 </p>
 
 <!-- Typing Animation #1 -->
