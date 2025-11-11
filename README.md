@@ -2,9 +2,27 @@
 <h1 align="center">
   ✨ Transforming Ideas into Reality Through Code ✨  
 </h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
   <b><span style="color:#00C0FF">Navneet Kumar Upadhyay</span></b>
+</p>
+
+<!-- ✅ GIF WITH NEON GLOW BORDER -->
+<p align="center">
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" 
+    width="600"
+    style="
+      border-radius: 15px;
+      box-shadow: 
+        0 0 10px #00C0FF,
+        0 0 20px #00C0FF,
+        0 0 30px #00C0FF,
+        0 0 40px #00C0FF;
+      border: 2px solid #00C0FF;
+    "
+  >
 </p>
 
 <p align="center">
@@ -24,7 +42,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=600&lines=💻+Languages;🎨+Frontend+Development;⚙️+Backend+%26+Frameworks;🗄️+Databases;🛠️+Tools+%26+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C0FF&center=true&VCenter=true&width=600&lines=💻+Languages;🎨+Frontend+Development;⚙️+Backend+%26+Frameworks;🗄️+Databases;🛠️+Tools+%26+Platforms" />
 </p>
 
 ### 💻 Languages  
@@ -76,7 +94,7 @@
 
 <details>
 <summary>🏨 <b>Hotel Management System</b></summary>
-<p>A <b>DBMS-based system</b> to streamline hotel bookings, customers, and staff operations 🏨</p>
+<p>A <b>DBMS-based system</b> to manage hotel bookings, customers, and staff 🏨</p>
 </details>
 
 <details>
@@ -86,12 +104,12 @@
 
 <details>
 <summary>🎬 <b>Hotstar Clone</b></summary>
-<p>A <b>front-end replica</b> of Disney+ Hotstar featuring categories, autoplay, and modern UI 🎥</p>
+<p>A <b>front-end replica</b> of Disney+ Hotstar with categories, autoplay, and modern UI 🎥</p>
 </details>
 
 <details>
 <summary>🍿 <b>Netflix Recommendation System</b></summary>
-<p>A <b>machine learning model</b> that suggests movies based on user interest patterns 🤖</p>
+<p>A <b>machine learning project</b> recommending movies based on user interests 🤖</p>
 </details>
 
 <details>
@@ -102,10 +120,6 @@
 ---
 
 ## 🌐 Connect with Me  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=📧+Email;🔗+LinkedIn;💻+GitHub" />
-</p>
 
 <p align="center">
   <a href="mailto:upadhyaynaveentkumar@gmail.com">
