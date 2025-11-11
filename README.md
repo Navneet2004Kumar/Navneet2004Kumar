@@ -122,7 +122,7 @@
 </p>
 
 
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -130,16 +130,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
+## Github Streak
 
-## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Navneet2004Kumar&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Navneet2004Kumar/Navneet2004Kumar/main/dist/snake.svg" />
 </p>
