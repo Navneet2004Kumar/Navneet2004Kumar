@@ -8,10 +8,10 @@
   <b><span style="color:#00C0FF">Navneet Kumar Upadhyay</span></b>
 </p>
 
-<!-- ✅ GIF WITH NEON GLOW BORDER -->
+<!-- ✅ WOW FRONTEND GIF WITH NEON GLOW -->
 <p align="center">
   <img 
-    src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" 
+    src="https://i.imgur.com/s0XqHfZ.gif" 
     width="600"
     style="
       border-radius: 15px;
@@ -84,37 +84,37 @@
 
 <details open>
 <summary>🌦 <b>Weather App</b></summary>
-<p>A live weather application using <b>OpenWeather API</b> with real-time dynamic updates 🌍</p>
+<p>A live weather application using <b>OpenWeather API</b> with real-time updates 🌍</p>
 </details>
 
 <details>
 <summary>📝 <b>To-Do List</b></summary>
-<p>A user-friendly task manager featuring <b>CRUD operations</b> and responsive UI ✅</p>
+<p>A task manager with <b>CRUD features</b> and responsive design ✅</p>
 </details>
 
 <details>
 <summary>🏨 <b>Hotel Management System</b></summary>
-<p>A <b>DBMS-based system</b> to manage hotel bookings, customers, and staff 🏨</p>
+<p>DBMS-based project for hotel bookings, customers, and staff 🏨</p>
 </details>
 
 <details>
 <summary>💼 <b>Portfolio Website</b></summary>
-<p>A personal portfolio showcasing <b>skills, achievements, and projects</b> 🌐</p>
+<p>Personal portfolio highlighting <b>skills, experience, and projects</b> 🌐</p>
 </details>
 
 <details>
 <summary>🎬 <b>Hotstar Clone</b></summary>
-<p>A <b>front-end replica</b> of Disney+ Hotstar with categories, autoplay, and modern UI 🎥</p>
+<p>Front-end clone with autoplay, categories, and responsive UI 🎥</p>
 </details>
 
 <details>
 <summary>🍿 <b>Netflix Recommendation System</b></summary>
-<p>A <b>machine learning project</b> recommending movies based on user interests 🤖</p>
+<p>ML-based recommender predicting user movie interests 🤖</p>
 </details>
 
 <details>
 <summary>🐞 <b>Bug Tracker</b></summary>
-<p>A complete <b>web-based bug tracking system</b> with reporting, tagging, and status workflow 🐛</p>
+<p>Web-based bug reporting and tracking system 🐛</p>
 </details>
 
 ---
