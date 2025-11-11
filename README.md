@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🎓+B.Tech+Student+(2023–2027)+at+SRM+IST;💻+Frontend+Developer;🚀+Problem+Solver+%7C+Tech+Explorer;🌟+UI%2FUX+Design+Enthusiast;🔥+Always+Learning+New+Tech" />
 </p>
 
-
 ---
 
 ## 🌟 About Me
@@ -19,7 +18,6 @@
 <p align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00C0FF&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=🔹+Exploring+Frontend+Development+%26+Data+Structures;🔹+Experience+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+Foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git%2C+GitHub;🔹+Love+Solving+Problems+%26+Building+Projects+🚀" />
 </p>
-
 
 ---
 
@@ -121,7 +119,7 @@
   </a>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -130,8 +128,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-## Github Streak
+---
+
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navneet2004Kumar&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Navneet2004Kumar&label=Profile%20Visitors&color=00C0FF&style=for-the-badge" />
 </p>
