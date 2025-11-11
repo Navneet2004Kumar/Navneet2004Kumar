@@ -132,9 +132,8 @@
 
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet2004Kumar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Navneet2004Kumar&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -142,5 +141,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Navneet2004Kumar/Navneet2004Kumar/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Navneet2004Kumar/Navneet2004Kumar/main/dist/snake.svg" />
 </p>
