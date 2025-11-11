@@ -8,10 +8,10 @@
   <b><span style="color:#00C0FF">Navneet Kumar Upadhyay</span></b>
 </p>
 
-<!-- ✅ WOW FRONTEND GIF WITH NEON GLOW -->
+<!-- ✅ NEW FRONTEND GIF WITH NEON GLOW -->
 <p align="center">
   <img 
-    src="https://i.imgur.com/s0XqHfZ.gif" 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
     width="600"
     style="
       border-radius: 15px;
@@ -84,37 +84,37 @@
 
 <details open>
 <summary>🌦 <b>Weather App</b></summary>
-<p>A live weather application using <b>OpenWeather API</b> with real-time updates 🌍</p>
+<p>A live weather application using <b>OpenWeather API</b> with real-time dynamic updates 🌍</p>
 </details>
 
 <details>
 <summary>📝 <b>To-Do List</b></summary>
-<p>A task manager with <b>CRUD features</b> and responsive design ✅</p>
+<p>A user-friendly task manager featuring <b>CRUD operations</b> and responsive UI ✅</p>
 </details>
 
 <details>
 <summary>🏨 <b>Hotel Management System</b></summary>
-<p>DBMS-based project for hotel bookings, customers, and staff 🏨</p>
+<p>A <b>DBMS-based system</b> to streamline hotel bookings, customers, and staff operations 🏨</p>
 </details>
 
 <details>
 <summary>💼 <b>Portfolio Website</b></summary>
-<p>Personal portfolio highlighting <b>skills, experience, and projects</b> 🌐</p>
+<p>A personal portfolio showcasing <b>skills, achievements, and projects</b> 🌐</p>
 </details>
 
 <details>
 <summary>🎬 <b>Hotstar Clone</b></summary>
-<p>Front-end clone with autoplay, categories, and responsive UI 🎥</p>
+<p>A <b>front-end replica</b> of Disney+ Hotstar with categories, autoplay, and responsive UI 🎥</p>
 </details>
 
 <details>
 <summary>🍿 <b>Netflix Recommendation System</b></summary>
-<p>ML-based recommender predicting user movie interests 🤖</p>
+<p>A <b>machine learning model</b> recommending movies based on user interests 🤖</p>
 </details>
 
 <details>
 <summary>🐞 <b>Bug Tracker</b></summary>
-<p>Web-based bug reporting and tracking system 🐛</p>
+<p>A complete <b>web-based bug tracking system</b> with reporting, tagging, and status workflow 🐛</p>
 </details>
 
 ---
