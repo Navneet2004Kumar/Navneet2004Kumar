@@ -74,8 +74,10 @@
 
 ## 🚀 Projects  
 
+<h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=🌦+Weather+App;📝+To-Do+List;+student management system; +🎬Hotstar+Clone;🍿+Netflix+Recommendation+System;🐞+Bug+Tracker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=🌦+Weather+App;📝+To-Do+List;🏨+Student+Management+System;🎬+Hotstar+Clone;🍿+Netflix+Recommendation+System;🐞+Bug+Tracker" />
 </p>
 
 ---
