@@ -137,9 +137,9 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet2004Kumar&theme=tokyonight" />
-</p>
+</p> -->
 
 <br/>
 
