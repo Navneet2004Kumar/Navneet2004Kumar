@@ -122,9 +122,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:upadhyaynaveentkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/navneet-kumar-upadhyay-321273253">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -137,15 +135,50 @@
 
 ## 📊 GitHub Stats
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navneet2004Kumar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navneet2004Kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Navneet2004Kumar&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Navneet2004Kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet2004Kumar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navneet2004Kumar&label=Profile%20Visitors&color=00C0FF&style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind,flask,linux" />
 </p>
+
+---
+
+<h2 align="center">🔥 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<h2 align="center">👀 Profile Visitors</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Navneet2004Kumar&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+
+
