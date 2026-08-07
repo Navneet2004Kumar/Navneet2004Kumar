@@ -138,20 +138,45 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navneet2004Kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet2004Kumar&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Navneet2004Kumar&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navneet2004Kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Navneet2004Kumar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet2004Kumar&theme=tokyo-night&hide_border=true"/>
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet2004Kumar&theme=tokyonight&hide_border=true&stroke=00C0FF&ring=00C0FF&fire=00C0FF" />
+</p>
+
+<br/>
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Navneet2004Kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</p>
+
+<br/>
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet2004Kumar&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br/>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
