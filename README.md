@@ -143,11 +143,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Navneet2004Kumar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet2004Kumar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <br/>
 
