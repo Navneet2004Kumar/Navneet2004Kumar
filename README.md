@@ -41,36 +41,58 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Arsenal
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C0FF&center=true&VCenter=true&width=600&lines=💻+Languages;🎨+Frontend+Development;⚙️+Backend+%26+Frameworks;🗄️+Databases;🛠️+Tools+%26+Platforms" />
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
 </p>
 
-### 💻 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp" />
+---
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite" />
 </p>
 
-### 🎨 Frontend Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+---
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
-### ⚙️ Backend & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase" />
 </p>
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+---
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,render,aws,docker" />
 </p>
 
-### 🛠️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+---
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,linux" />
 </p>
+
+---
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,mongodb,docker,aws" />
+</p>
+
+</div>
 
 ---
 
