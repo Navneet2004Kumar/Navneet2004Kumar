@@ -156,11 +156,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind,flask,linux" />
-</p>
 
 ---
 
