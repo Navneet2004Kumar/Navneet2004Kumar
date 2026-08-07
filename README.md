@@ -33,8 +33,10 @@
 
 ## 🌟 About Me
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00C0FF&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=🔹+Exploring+Frontend+Development+%26+Data+Structures;🔹+Experience+with+Python+%26+Web+Development+(CodSoft%2C+Vault+of+Codes);🔹+Strong+Foundation+in+DBMS%2C+OS%2C+CN%2C+SQL%2C+MySQL%2C+PostgreSQL;🔹+Skilled+in+C%2B%2B%2C+Python%2C+HTML%2C+CSS%2C+JS%2C+Bootstrap%2C+Git%2C+GitHub;🔹+Love+Solving+Problems+%26+Building+Projects+🚀" />
+<h2 align="center">✨ About Me ✨</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=280&lines=👋+Hi%2C+I'm+Navneet+Kumar+Upadhyay;🎓+Computer+Science+Engineering+Student;💡+Turning+Ideas+into+Interactive+Web+Experiences;🔥+Exploring+Full+Stack+Development+%26+Artificial+Intelligence;⚙️+Crafting+Projects+using+React%2C+Node.js%2C+Python+%26+SQL;📚+Mastering+Data+Structures+%26+Algorithms+for+Software+Engineering;🌟+Always+Learning%2C+Building+%26+Growing" />
 </p>
 
 ---
