@@ -75,7 +75,7 @@
 ## 🚀 Projects  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=🌦+Weather+App;📝+To-Do+List;🏨+Hotel+Management+System;💼+Portfolio+Website;🎬+Hotstar+Clone;🍿+Netflix+Recommendation+System;🐞+Bug+Tracker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=🌦+Weather+App;📝+To-Do+List;+student management system; +🎬Hotstar+Clone;🍿+Netflix+Recommendation+System;🐞+Bug+Tracker" />
 </p>
 
 ---
@@ -93,14 +93,10 @@
 </details>
 
 <details>
-<summary>🏨 <b>Hotel Management System</b></summary>
-<p>A <b>DBMS-based system</b> to streamline hotel bookings, customers, and staff operations 🏨</p>
+<summary>🏨 <b>student Management System</b></summary>
+<p>A <b>DBMS-based system</b>Student Management System for managing student records with secure CRUD operations</p>
 </details>
 
-<details>
-<summary>💼 <b>Portfolio Website</b></summary>
-<p>A personal portfolio showcasing <b>skills, achievements, and projects</b> 🌐</p>
-</details>
 
 <details>
 <summary>🎬 <b>Hotstar Clone</b></summary>
