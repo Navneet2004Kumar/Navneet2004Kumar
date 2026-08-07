@@ -157,10 +157,12 @@
 
 <br/>
 
+
+
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navneet2004Kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Navneet2004Kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
 </p>
 
 <br/>
@@ -173,18 +175,11 @@
 
 <br/>
 
-<h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 
 
 ---
-
 <h2 align="center">🔥 Contribution Snake</h2>
 
 <p align="center">
