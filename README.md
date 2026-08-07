@@ -158,15 +158,6 @@
 <br/>
 
 
-
-<h3 align="center">🏆 GitHub Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navneet2004Kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
-</p>
-
-<br/>
-
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
