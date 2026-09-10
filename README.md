@@ -1,14 +1,17 @@
 <!-- ✨ UNIQUE HEADER SECTION -->
+
 <h1 align="center">
   ✨ Transforming Ideas into Reality Through Code ✨
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b><span style="color:#00C0FF">Navneet Kumar Upadhyay</span></b>
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="35"
+  />
+  <b>Navneet Kumar Upadhyay</b>
 </p>
 
-<!-- ✅ FRONTEND / CODING GIF -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
@@ -22,46 +25,53 @@
         0 0 40px #00C0FF;
       border: 2px solid #00C0FF;
     "
-  >
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🎓+B.Tech+Student+(2023–2027)+at+SRM+IST;💻+Full+Stack+Developer;🤖+AI+%26+GenAI+Enthusiast;🚀+Problem+Solver+%7C+Tech+Explorer;🧠+DSA+%7C+AI+%7C+Web+Development;🔥+Always+Learning+%26+Building" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎓+B.Tech+Student+(2023–2027)+at+SRM+IST;💻+Full+Stack+Developer;🤖+AI+%26+GenAI+Enthusiast;🚀+Problem+Solver+%7C+Tech+Explorer;🧠+DSA+%7C+AI+%7C+Web+Development;🔥+Always+Learning+%26+Building"
+  />
 </p>
 
 ---
 
-## 🌟 About Me
-
-<h2 align="center">✨ About Me ✨</h2>
+# 🌟 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=280&lines=👋+Hi%2C+I'm+Navneet+Kumar+Upadhyay;🎓+Computer+Science+Engineering+Student;💻+Building+Full+Stack+Web+Applications;🤖+Exploring+Artificial+Intelligence+%26+Generative+AI;⚙️+Working+with+React%2C+Python%2C+FastAPI+%26+Flask;🧠+Building+RAG+%26+LLM-Powered+Applications;📚+Solving+Data+Structures+%26+Algorithms+Problems;🌟+Always+Learning%2C+Building+%26+Growing" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=280&lines=👋+Hi%2C+I'm+Navneet+Kumar+Upadhyay;🎓+Computer+Science+Engineering+Student;💻+Building+Full+Stack+Web+Applications;🤖+Exploring+Artificial+Intelligence+%26+Generative+AI;⚙️+Working+with+React%2C+Python%2C+FastAPI+%26+Flask;🧠+Building+RAG+%26+LLM-Powered+Applications;📚+Solving+Data+Structures+%26+Algorithms+Problems;🌟+Always+Learning%2C+Building+%26+Growing"
+  />
+</p>
+
+<p align="center">
+  I enjoy building practical software that combines
+  <b>Full Stack Development, Artificial Intelligence, APIs and Data Structures & Algorithms.</b>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
 </p>
 
 ---
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ---
 
-### ⚙️ Backend & Frameworks
+## ⚙️ Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
@@ -69,25 +79,29 @@
 
 ---
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-<p>
-  <b>Gemini API</b> •
-  <b>Groq API</b> •
-  <b>FAISS</b> •
-  <b>RAG</b> •
-  <b>LLM Applications</b> •
-  <b>scikit-learn</b> •
-  <b>pandas</b>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLM-blueviolet?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
 </p>
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
@@ -95,7 +109,7 @@
 
 ---
 
-### ☁️ Cloud & Deployment
+## ☁️ Cloud & Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=netlify,vercel,render,aws,docker" />
@@ -103,172 +117,360 @@
 
 ---
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" />
-</p>
-
----
-
-### 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,mongodb,docker,aws" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Top Projects
 
-<h2 align="center">🤖 AI & Full Stack Projects</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=🤖+AI-Powered+Applications;📄+RAG+%26+Document+Question+Answering;🧠+AI+Resume+Analyzer;🎯+AI+Mock+Interview+Coach;🌦+Real-Time+Weather+Application;💻+Full+Stack+Web+Development" />
-</p>
-
----
-
-## 🌟 My Work
-
-<details open>
-<summary>🤖 <b>InsightPDF — AI Study Assistant</b></summary>
-
-<p>
-An AI-powered PDF question-answering system that allows users to upload documents and ask questions using Retrieval-Augmented Generation (RAG).
-</p>
-
-<p>
-<b>Tech:</b> React.js • FastAPI • Gemini API • FAISS • Python
-</p>
-
-<ul>
-  <li>Extracts and processes text from uploaded PDF documents.</li>
-  <li>Splits documents into searchable chunks.</li>
-  <li>Uses embeddings and FAISS-based semantic retrieval to find relevant context.</li>
-  <li>Uses the Gemini API to generate evidence-grounded answers.</li>
-</ul>
-
-</details>
-
----
-
-<details>
-<summary>📄 <b>AI Resume Analyzer</b></summary>
-
-<p>
-An AI-powered resume analysis platform that extracts information from resumes and provides actionable feedback using Generative AI.
-</p>
-
-<p>
-<b>Tech:</b> React.js • Flask • Gemini API • Python
-</p>
-
-<ul>
-  <li>Accepts resume PDFs and processes unstructured resume content.</li>
-  <li>Uses Gemini API to analyze resume information.</li>
-  <li>Generates actionable feedback for improving resumes.</li>
-  <li>Implemented and resolved frontend-backend integration issues including CORS and API/model compatibility.</li>
-</ul>
-
-</details>
-
----
-
-<details>
-<summary>🎯 <b>MockMate — AI Mock Interview Coach</b></summary>
-
-<p>
-An AI-powered mock interview platform that generates role-specific technical and behavioral questions and evaluates candidate responses using an LLM.
-</p>
-
-<p>
-<b>Tech:</b> React.js • Flask • Groq API • MongoDB • REST APIs
-</p>
-
-<ul>
-  <li>Generates technical and behavioral interview questions based on target role and company.</li>
-  <li>Uses Groq API for LLM-powered question generation and answer evaluation.</li>
-  <li>Evaluates answers across clarity, correctness, and structure.</li>
-  <li>Stores interview sessions and performance history in MongoDB.</li>
-  <li>Provides structured feedback and performance tracking across multiple sessions.</li>
-</ul>
-
-</details>
-
----
-
-<details>
-<summary>🌦 <b>WeatherLens — Real-Time Weather Application</b></summary>
-
-<p>
-A real-time weather application that retrieves live weather information using a weather API and presents it through a responsive interface.
-</p>
-
-<p>
-<b>Tech:</b> React.js • JavaScript • REST API • HTML • CSS
-</p>
-
-<ul>
-  <li>Fetches real-time weather information through API integration.</li>
-  <li>Displays dynamic weather information based on the selected location.</li>
-  <li>Handles API requests and updates the interface dynamically.</li>
-  <li>Designed a responsive and user-friendly weather dashboard.</li>
-</ul>
-
-</details>
-
----
-
-<details>
-<summary>🛒 <b>CampusMarket — AI-Ready Full Stack Marketplace</b></summary>
-
-<p>
-A full-stack marketplace application designed for students to list, discover, and manage products through a web-based platform.
-</p>
-
-<p>
-<b>Tech:</b> React.js • Node.js • Express.js • MongoDB
-</p>
-
-<ul>
-  <li>Implemented user signup and login functionality.</li>
-  <li>Built product listing and management functionality.</li>
-  <li>Connected React frontend with Express REST APIs.</li>
-  <li>Used MongoDB Atlas for persistent application data.</li>
-</ul>
-
-</details>
-
----
-
-<details>
-<summary>📚 <b>Student Management System</b></summary>
-
-<p>
-A DBMS-based application for managing student records and performing structured CRUD operations.
-</p>
-
-<p>
-<b>Tech:</b> Python • SQL • DBMS
-</p>
-
-<ul>
-  <li>Designed functionality for managing student records.</li>
-  <li>Implemented CRUD operations for structured data management.</li>
-  <li>Applied database concepts for efficient record handling.</li>
-</ul>
-
-</details>
-
----
-
-## 🧠 Problem Solving
+<h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-330%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <i>
+    AI-powered, full-stack and real-time applications built with modern technologies.
+  </i>
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- 1. INSIGHTPDF -->
+<!-- ====================================================== -->
+
+<h2>🤖 InsightPDF — AI Study Assistant</h2>
+
+<p>
+  <b>Retrieval-Augmented Generation (RAG) based PDF Question Answering System</b>
+</p>
+
+<p>
+  InsightPDF is an AI-powered study assistant that allows users to upload
+  PDF documents and ask questions about their content. The application
+  processes documents, creates searchable chunks, retrieves relevant context
+  using semantic search, and generates grounded answers using the Gemini API.
+</p>
+
+<p>
+  <b>Key Features:</b>
+</p>
+
+<ul>
+  <li>📄 PDF document text extraction and processing</li>
+  <li>✂️ Document chunking for efficient retrieval</li>
+  <li>🧠 Embedding-based semantic search</li>
+  <li>🔎 FAISS-powered vector retrieval</li>
+  <li>🤖 Gemini-powered answer generation</li>
+  <li>🔗 End-to-end Retrieval-Augmented Generation pipeline</li>
+  <li>⚡ React frontend with FastAPI backend</li>
+</ul>
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/RAG-LLM-purple?style=for-the-badge" />
+</p>
+
+<p>
+  🔗
+  <a href="https://github.com/Navneet2004Kumar/ai-study-assistant">
+    <b>GitHub Repository →</b>
+  </a>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!-- 2. AI RESUME ANALYZER -->
+<!-- ====================================================== -->
+
+<h2>📄 AI Resume Analyzer</h2>
+
+<p>
+  <b>AI-powered Resume Analysis and Feedback Platform</b>
+</p>
+
+<p>
+  A full-stack AI application that processes resume PDFs and uses Generative
+  AI to analyze resume content and provide actionable feedback for improving
+  resume quality and presentation.
+</p>
+
+<p>
+  <b>Key Features:</b>
+</p>
+
+<ul>
+  <li>📄 Resume PDF processing</li>
+  <li>🧠 AI-powered resume analysis</li>
+  <li>💡 Actionable improvement suggestions</li>
+  <li>⚛️ Interactive React frontend</li>
+  <li>🐍 Flask REST backend</li>
+  <li>🔧 Real-world frontend-backend API integration</li>
+</ul>
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+</p>
+
+<p>
+  🔗 <b>Live Demo</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>GitHub Repository</b>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!-- 3. MOCKMATE -->
+<!-- ====================================================== -->
+
+<h2>🎯 MockMate — AI Mock Interview Coach</h2>
+
+<p>
+  <b>LLM-powered Technical and Behavioral Interview Platform</b>
+</p>
+
+<p>
+  MockMate is an AI-powered mock interview platform that generates
+  role- and company-specific technical and behavioral questions and evaluates
+  candidate responses using an LLM. Interview history and performance
+  metrics are stored in MongoDB for progress tracking.
+</p>
+
+<p>
+  <b>Key Features:</b>
+</p>
+
+<ul>
+  <li>🎯 Role-specific interview generation</li>
+  <li>🏢 Company-specific interview preparation</li>
+  <li>🧠 AI-generated technical and behavioral questions</li>
+  <li>🤖 LLM-based answer evaluation</li>
+  <li>📊 Automated scoring for clarity, correctness and structure</li>
+  <li>💾 MongoDB-based interview session storage</li>
+  <li>📈 Performance tracking across interview sessions</li>
+</ul>
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+</p>
+
+<p>
+  🔗
+  <a href="https://tourmaline-pika-0aa2ed.netlify.app/">
+    <b>Live Demo →</b>
+  </a>
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://github.com/Navneet2004Kumar/interview-coach">
+    <b>GitHub Repository →</b>
+  </a>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!-- 4. WEATHERLENS -->
+<!-- ====================================================== -->
+
+<h2>🌦️ WeatherLens — Real-Time Weather Application</h2>
+
+<p>
+  <b>Real-Time Weather Data and REST API Integration</b>
+</p>
+
+<p>
+  A responsive weather application that consumes a real-time weather API
+  to retrieve and display dynamic weather information based on location.
+  The project demonstrates API integration, asynchronous data handling
+  and dynamic frontend updates.
+</p>
+
+<p>
+  <b>Key Features:</b>
+</p>
+
+<ul>
+  <li>🌍 Real-time weather information</li>
+  <li>🔌 REST API integration</li>
+  <li>⚡ Dynamic data fetching</li>
+  <li>📍 Location-based weather information</li>
+  <li>📱 Responsive user interface</li>
+  <li>🔄 Dynamic UI updates based on API responses</li>
+</ul>
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  🔗 <b>Live Demo</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>GitHub Repository</b>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!-- 5. CAMPUSMARKET -->
+<!-- ====================================================== -->
+
+<h2>🛒 CampusMarket — Full Stack Marketplace</h2>
+
+<p>
+  <b>Student-focused Full Stack Marketplace Application</b>
+</p>
+
+<p>
+  CampusMarket is a full-stack marketplace application where users can
+  create accounts, browse products and manage their own listings.
+  The application follows a frontend-backend architecture using React,
+  Express REST APIs and MongoDB Atlas.
+</p>
+
+<p>
+  <b>Key Features:</b>
+</p>
+
+<ul>
+  <li>👤 User signup and login</li>
+  <li>🛍️ Product listing and browsing</li>
+  <li>📝 Listing management</li>
+  <li>🔌 Express REST APIs</li>
+  <li>🗄️ MongoDB Atlas database</li>
+  <li>⚛️ React-based frontend</li>
+</ul>
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p>
+  🔗 <b>GitHub Repository</b>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!-- 6. STUDENT MANAGEMENT SYSTEM -->
+<!-- ====================================================== -->
+
+<h2>📚 Student Management System</h2>
+
+<p>
+  <b>Database-driven Student Record Management System</b>
+</p>
+
+<p>
+  A DBMS-based application for managing student records through structured
+  CRUD operations. The project demonstrates relational database concepts,
+  SQL queries and structured data management.
+</p>
+
+<p>
+  <b>Key Features:</b>
+</p>
+
+<ul>
+  <li>👨‍🎓 Student record management</li>
+  <li>➕ Create student records</li>
+  <li>🔎 Retrieve student information</li>
+  <li>✏️ Update student records</li>
+  <li>🗑️ Delete student records</li>
+  <li>🗄️ SQL-based database operations</li>
+</ul>
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/DBMS-Database-blue?style=for-the-badge" />
+</p>
+
+---
+
+# 🧠 Problem Solving
+
+<p align="center">
+
+  <img
+    src="https://img.shields.io/badge/330%2B-DSA%20Problems-orange?style=for-the-badge"
+  />
+
+  <img
+    src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-blue?style=for-the-badge&logo=cplusplus&logoColor=white"
+  />
+
 </p>
 
 <p align="center">
@@ -276,57 +478,138 @@ A DBMS-based application for managing student records and performing structured 
 </p>
 
 <p align="center">
-  Arrays • Strings • Hashing • Two Pointers • Sliding Window • Prefix Sum • Binary Search • Stack • Queue • Linked List • Bit Manipulation
+  Arrays • Strings • Hashing • Two Pointers • Sliding Window • Prefix Sum
+  • Binary Search • Stack • Queue • Linked List • Bit Manipulation
 </p>
 
 ---
 
-## 🛠️ What I Build
+# 🏆 Certifications
 
 <p align="center">
 
-🤖 AI Applications &nbsp; • &nbsp;
-🧠 LLM-Powered Tools &nbsp; • &nbsp;
-📄 RAG Systems &nbsp; • &nbsp;
-💻 Full Stack Applications
+  <img src="https://img.shields.io/badge/Microsoft-Generative%20AI-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-</p>
+  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 
-<p align="center">
-
-⚛️ React Applications &nbsp; • &nbsp;
-🐍 Python Backends &nbsp; • &nbsp;
-🔌 REST APIs &nbsp; • &nbsp;
-🗄️ Database Applications
+  <img src="https://img.shields.io/badge/Microsoft-Machine%20Learning-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 💼 Experience
+
+<h3>Frontend Web Development Intern — Vault of Codes</h3>
+
+<p>
+  <b>Feb 2025 – Mar 2025</b>
+</p>
+
+<ul>
+  <li>
+    Developed multiple responsive frontend projects using modern web
+    development practices.
+  </li>
+
+  <li>
+    Built reusable UI components and implemented dynamic rendering
+    using structured JSON data.
+  </li>
+
+  <li>
+    Worked with React-based frontend development and translated
+    application requirements into functional user interfaces.
+  </li>
+</ul>
+
+---
+
+# 🧩 Core Computer Science
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/navneet-kumar-upadhyay-321273253">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/DSA-Algorithms-orange?style=for-the-badge" />
 
-<a href="https://github.com/Navneet2004Kumar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/DBMS-Database-green?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-purple?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/CN-Computer%20Networks-red?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/REST-APIs-black?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ What I Build
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<p align="center">
+
+  🤖 <b>AI Applications</b>
+  &nbsp; • &nbsp;
+  🧠 <b>LLM-Powered Tools</b>
+  &nbsp; • &nbsp;
+  📄 <b>RAG Systems</b>
+
+</p>
+
+<p align="center">
+
+  💻 <b>Full Stack Applications</b>
+  &nbsp; • &nbsp;
+  ⚛️ <b>React Applications</b>
+  &nbsp; • &nbsp;
+  🐍 <b>Python Backends</b>
+
+</p>
+
+<p align="center">
+
+  🔌 <b>REST APIs</b>
+  &nbsp; • &nbsp;
+  🗄️ <b>Database Applications</b>
+  &nbsp; • &nbsp;
+  🌦️ <b>Real-Time API Applications</b>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/navneet-kumar-upadhyay-321273253">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/Navneet2004Kumar">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<h2 align="center">📈 GitHub Statistics</h2>
 
 <br/>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet2004Kumar&theme=tokyonight&hide_border=true&stroke=00C0FF&ring=00C0FF&fire=00C0FF" />
+  <img
+    width="65%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet2004Kumar&theme=tokyonight&hide_border=true&stroke=00C0FF&ring=00C0FF&fire=00C0FF"
+  />
 </p>
 
 <br/>
@@ -334,29 +617,33 @@ A DBMS-based application for managing student records and performing structured 
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet2004Kumar&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet2004Kumar&theme=tokyo-night&hide_border=true&area=true"
+  />
 </p>
 
 <br/>
 
 ---
 
-## 🔥 Contribution Snake
+# 🔥 Contribution Snake
 
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
 </p>
 
 ---
 
-## 👀 Profile Visitors
-
-<h2 align="center">👀 Profile Visitors</h2>
+# 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navneet2004Kumar&style=for-the-badge&color=blueviolet"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Navneet2004Kumar&style=for-the-badge&color=blueviolet"
+  />
 </p>
 
 ---
@@ -366,7 +653,9 @@ A DBMS-based application for managing student records and performing structured 
 </h3>
 
 <p align="center">
-  <i>Turning ideas into real-world software, one project at a time.</i>
+  <i>
+    Turning ideas into real-world software, one project at a time.
+  </i>
 </p>
 
 
