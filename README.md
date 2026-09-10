@@ -188,13 +188,6 @@
   <img src="https://img.shields.io/badge/RAG-LLM-purple?style=for-the-badge" />
 </p>
 
-<p>
-  🔗
-  <a href="https://github.com/Navneet2004Kumar/ai-study-assistant">
-    <b>GitHub Repository →</b>
-  </a>
-</p>
-
 ---
 
 <!-- ====================================================== -->
@@ -223,7 +216,7 @@
   <li>💡 Actionable improvement suggestions</li>
   <li>⚛️ Interactive React frontend</li>
   <li>🐍 Flask REST backend</li>
-  <li>🔧 Real-world frontend-backend API integration</li>
+  <li>🔧 Frontend-backend API integration</li>
 </ul>
 
 <p>
@@ -240,12 +233,6 @@
   <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-</p>
-
-<p>
-  🔗 <b>Live Demo</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>GitHub Repository</b>
 </p>
 
 ---
@@ -278,7 +265,7 @@
   <li>🤖 LLM-based answer evaluation</li>
   <li>📊 Automated scoring for clarity, correctness and structure</li>
   <li>💾 MongoDB-based interview session storage</li>
-  <li>📈 Performance tracking across interview sessions</li>
+  <li>📈 Performance tracking across multiple sessions</li>
 </ul>
 
 <p>
@@ -295,19 +282,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-</p>
-
-<p>
-  🔗
-  <a href="https://tourmaline-pika-0aa2ed.netlify.app/">
-    <b>Live Demo →</b>
-  </a>
-
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
-  <a href="https://github.com/Navneet2004Kumar/interview-coach">
-    <b>GitHub Repository →</b>
-  </a>
 </p>
 
 ---
@@ -358,12 +332,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p>
-  🔗 <b>Live Demo</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>GitHub Repository</b>
-</p>
-
 ---
 
 <!-- ====================================================== -->
@@ -408,10 +376,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p>
-  🔗 <b>GitHub Repository</b>
 </p>
 
 ---
@@ -488,11 +452,17 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Microsoft-Generative%20AI-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Microsoft-Generative%20AI-blue?style=for-the-badge&logo=microsoft&logoColor=white"
+  />
 
-  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+  />
 
-  <img src="https://img.shields.io/badge/Microsoft-Machine%20Learning-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Microsoft-Machine%20Learning-blue?style=for-the-badge&logo=microsoft&logoColor=white"
+  />
 
 </p>
 
@@ -507,6 +477,7 @@
 </p>
 
 <ul>
+
   <li>
     Developed multiple responsive frontend projects using modern web
     development practices.
@@ -521,6 +492,7 @@
     Worked with React-based frontend development and translated
     application requirements into functional user interfaces.
   </li>
+
 </ul>
 
 ---
@@ -529,17 +501,29 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/DSA-Algorithms-orange?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/DSA-Algorithms-orange?style=for-the-badge"
+  />
 
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge"
+  />
 
-  <img src="https://img.shields.io/badge/DBMS-Database-green?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/DBMS-Database-green?style=for-the-badge"
+  />
 
-  <img src="https://img.shields.io/badge/OS-Operating%20Systems-purple?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/OS-Operating%20Systems-purple?style=for-the-badge"
+  />
 
-  <img src="https://img.shields.io/badge/CN-Computer%20Networks-red?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/CN-Computer%20Networks-red?style=for-the-badge"
+  />
 
-  <img src="https://img.shields.io/badge/REST-APIs-black?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/REST-APIs-black?style=for-the-badge"
+  />
 
 </p>
 
@@ -657,5 +641,3 @@
     Turning ideas into real-world software, one project at a time.
   </i>
 </p>
-
-
