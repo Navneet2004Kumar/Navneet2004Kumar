@@ -631,11 +631,6 @@
 </p>
 
 ---
-
-<h3 align="center">
-  🚀 Keep Building • Keep Learning • Keep Solving
-</h3>
-
 <p align="center">
   <i>
     Turning ideas into real-world software, one project at a time.
