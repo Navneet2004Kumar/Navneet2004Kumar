@@ -428,7 +428,7 @@
 <p align="center">
 
   <img
-    src="https://img.shields.io/badge/330%2B-DSA%20Problems-orange?style=for-the-badge"
+    src="https://img.shields.io/badge/600%2B-DSA%20Problems-orange?style=for-the-badge"
   />
 
   <img
